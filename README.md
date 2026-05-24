@@ -1,0 +1,2 @@
+# KURAL
+Blog writing website 
